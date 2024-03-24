@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v2
+    created: "2024-03-24T21:22:16.711679+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b7169903481819c01603ad86d515b08fa71f1d439f282b0df2a1c565b729bb4b
+    name: app
+    type: application
+    urls:
+    - https://github.com/alexandrosst/simple-chart/app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-24T21:22:16.711448+02:00"

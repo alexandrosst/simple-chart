@@ -1,0 +1,7 @@
+deployment:
+  name: my-app
+  replicaCount: 1
+  image:
+    repository: nginx
+    tag: latest
+  containerPort: 80
